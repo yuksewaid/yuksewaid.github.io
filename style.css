@@ -22,3 +22,14 @@ body {
 a {
   text-decoration: none;
 }
+.bg-jum {
+  background-image: url("aset/par.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+.txt-jus {
+  text-align: justify;
+}
